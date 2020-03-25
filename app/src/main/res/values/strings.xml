@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Barbearia Vieira</string>
+    <string name="tCliente10">cliente</string>
+    <string name="tCliente11">Corte</string>
+    <string name="tCliente12">Corte</string>
+    <string name="tCliente14">Corte</string>
+    <string name="title_activity_add_servico">AddServico</string>
+</resources>
